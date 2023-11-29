@@ -4,7 +4,7 @@ import java.util.concurrent.Semaphore;
 
 public class CentroComercial {
 public static final int NUMPLAZAS = 2;
-
+//nueva subida
 public static final int COCHESTOTALES=10;
 
     public static void main (String[]args){

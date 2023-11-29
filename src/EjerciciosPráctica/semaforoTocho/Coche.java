@@ -15,7 +15,7 @@ public class Coche extends Thread {
         this.semaforo = semaforo;
         this.numeroCoche = numeroCoche;
     }
-
+//nueva subida
     public void run() {
         while (bucle == true) {
             try {
